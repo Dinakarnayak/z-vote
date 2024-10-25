@@ -117,9 +117,9 @@ TWILIO_PHONE_NUMBER = '+134656544'
 ![result](https://github.com/akkupy/Z-Vote/assets/69421964/32006491-cd8f-40f7-9c5a-84a6be11ced4)
 
 
-# Contact Me
- [![telegram](https://img.shields.io/badge/Akku-000000?style=for-the-badge&logo=telegram)](https://t.me/akkupy)
+### Contact Me
 
+[![LinkedIn](https://img.shields.io/badge/Dinakar%20Nayak%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinakar-nayak-n-125762232/)
 
 # License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
